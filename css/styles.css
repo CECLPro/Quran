@@ -27,11 +27,11 @@ hr{
 h1{
 font-size: 2.5rem;
   margin-top: 40px;
-  font-family: 'Sacramento', cursive;
+  font-family: 'Normal', sans sherif;
   color: #66BFBF;
 }
 .middle-container{
-  background-color: grey;
+  background-color:white;
 
 
 }
@@ -71,7 +71,7 @@ line-height: 2;
 .bottom-cloud{
   position: absolute;
   left:280px;
-  bottom:2120px;
+  
 }
 .top-cloud{
   position: absolute;
